@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"CodeFormatter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Git",
+		"HTML Minifier",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP MySQLi connection",
+		"PHPIntel",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Soda"
+	]
+}

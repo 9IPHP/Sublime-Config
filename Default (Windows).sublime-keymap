@@ -1,0 +1,21 @@
+[
+    { "keys": ["ctrl+shift+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["shift+tab"], "command": "reindent", "args": {"single_line": false} },
+    { "keys": ["ctrl+shift+space"], "command": "auto_complete" },
+    { "keys": ["ctrl+shift+space"], "command": "replace_completion_with_auto_complete", "context":
+        [
+            { "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+            { "key": "auto_complete_visible", "operator": "equal", "operand": false },
+            { "key": "setting.tab_completion", "operator": "equal", "operand": true }
+        ]
+    },
+    { "keys": ["ctrl+shift+alt+s"], "command": "save_all" },
+    {
+        "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.5,
+            "activate_browser": true,
+            "browser_name" : "all"
+        }
+    }
+]
