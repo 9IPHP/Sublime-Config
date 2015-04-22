@@ -5,13 +5,13 @@
 	"draw_minimap_border": true,
 	"find_selected_text": true,
 	"font_face": "Courier New",
-	"font_size": 18,
+	"font_size": 17,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"line_padding_bottom": 5,
 	"rulers":
