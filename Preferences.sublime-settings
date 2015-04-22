@@ -1,17 +1,12 @@
 {
-	// 文件夹字体加粗
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
-	// 换行符
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
-	// 查找选中文字(按Ctrl+F直接查找选中文字)
 	"find_selected_text": true,
 	"font_face": "Courier New",
 	"font_size": 18,
-	// 高亮选中行
 	"highlight_line": true,
-	// 高亮有修改的标签页
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -27,7 +22,6 @@
 	"show_full_path": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	// 删除行尾没有的空白
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
