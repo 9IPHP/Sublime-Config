@@ -6,4 +6,5 @@
     <tabTrigger>bdjq</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.html, source.php</scope>
+    <description>百度 jQuery CDN</description>
 </snippet>
