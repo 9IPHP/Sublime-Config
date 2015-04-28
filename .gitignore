@@ -1,10 +1,10 @@
-c2u_tmp
-Color Highlighter
-Package Control.cache
-SublimeLinter
-bh_unicode_properties.cache
-encoding_cache.json
-Package Control.last-run
-Package Control.merged-ca-bundle
-Package Control.system-ca-bundle
-Package Control.user-ca-bundle
+*
+!.gitignore
+!baidu-jquery.sublime-snippet
+!bootstrap.sublime-snippet
+!Default (Windows).sublime-keymap
+!nodejs.sublime-build
+!Package Control.sublime-settings
+!Preferences.sublime-settings
+!README.md
+!phpfmt.sublime-settings
