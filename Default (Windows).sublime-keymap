@@ -1,6 +1,6 @@
 [
     { "keys": ["ctrl+shift+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-    { "keys": ["shift+tab"], "command": "reindent", "args": {"single_line": false} },
+    // { "keys": ["shift+tab"], "command": "reindent", "args": {"single_line": false} },
     { "keys": ["alt+space"], "command": "auto_complete" },
     { "keys": ["ctrl+shift+space"], "command": "replace_completion_with_auto_complete", "context":
         [
