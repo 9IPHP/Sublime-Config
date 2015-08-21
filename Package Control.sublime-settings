@@ -10,13 +10,16 @@
 		"ChineseLoremIpsum",
 		"CodeFormatter",
 		"Color Highlighter",
+		"Compare Side-By-Side",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Git",
 		"HTML Minifier",
 		"HTML-CSS-JS Prettify",
+		"IMESupport",
 		"jQuery",
 		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
 		"LESS",
 		"LoremIpsum",
 		"Package Control",
@@ -25,6 +28,10 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SyncedSideBar",
-		"Theme - Soda"
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"Theme - Spaceblack",
+		"Theme - Spacegray",
+		"WordPress Developer Resources"
 	]
 }
