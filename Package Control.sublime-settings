@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -18,15 +19,17 @@
 		"HTML-CSS-JS Prettify",
 		"IMESupport",
 		"jQuery",
-		"Laravel 4 Snippets",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"LoremIpsum",
 		"Package Control",
+		"PHP Companion",
 		"PHPIntel",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Theme - itg.flat",
 		"Theme - Soda",

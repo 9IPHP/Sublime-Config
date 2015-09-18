@@ -2,7 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - itg.flat/itg.Monokai.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/itg.Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"find_selected_text": true,
@@ -13,7 +13,6 @@
 	"ignored_packages":
 	[
 		"ASP",
-		"HTML Minifier",
 		"C#",
 		"HTML Minifier",
 		"Vintage"
