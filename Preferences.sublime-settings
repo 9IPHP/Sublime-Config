@@ -2,7 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/itg.Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"find_selected_text": true,
@@ -14,7 +14,9 @@
 	[
 		"ASP",
 		"C#",
+		"Emmet",
 		"HTML Minifier",
+		"Laravel 4 Snippets",
 		"Vintage"
 	],
 	"line_padding_bottom": 7,
