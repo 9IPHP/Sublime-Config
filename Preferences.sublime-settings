@@ -12,12 +12,17 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"ActionScript",
+		"AppleScript",
 		"ASP",
 		"C#",
+		"C++",
+		"D",
+		"Erlang",
 		"HTML Minifier",
+		"Laravel 4 Snippets",
 		"PHPIntel",
 		"SublimeCodeIntel",
-		"Laravel 4 Snippets",
 		"Vintage"
 	],
 	"line_padding_bottom": 7,
