@@ -2,7 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/tron (SL).tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"find_selected_text": true,
@@ -24,7 +24,8 @@
 		"SublimeCodeIntel",
 		"Vintage"
 	],
-	"line_padding_bottom": 7,
+	"line_padding_bottom": 10,
+	"line_padding_top": 10,
 	"rulers":
 	[
 		80
