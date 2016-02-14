@@ -14,6 +14,7 @@
 		"Compare Side-By-Side",
 		"ConvertToUTF8",
 		"DocBlockr",
+		"Emmet",
 		"Git",
 		"HTML Minifier",
 		"HTML-CSS-JS Prettify",
@@ -22,10 +23,13 @@
 		"Laravel Blade Highlighter",
 		"LESS",
 		"LoremIpsum",
+		"Material Theme",
 		"Package Control",
 		"PHP Companion",
 		"PHPIntel",
 		"Pretty JSON",
+		"Seti_UI",
+		"Seti_UX",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
@@ -36,6 +40,7 @@
 		"Theme - Soda",
 		"Theme - Spaceblack",
 		"Theme - Spacegray",
+		"Themr",
 		"WordPress Developer Resources"
 	]
 }
