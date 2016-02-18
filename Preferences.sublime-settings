@@ -26,8 +26,8 @@
 		"SyncedSidebarBg",
 		"Vintage"
 	],
-	"line_padding_bottom": 10,
-	"line_padding_top": 10,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
 	"rulers":
 	[
 		80
