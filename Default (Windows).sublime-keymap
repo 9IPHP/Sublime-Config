@@ -10,14 +10,6 @@
         ]
     },
     { "keys": ["ctrl+shift+alt+s"], "command": "save_all" },
-    {
-        "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
-            "auto_save": true,
-            "delay": 0.5,
-            "activate_browser": true,
-            "browser_name" : "all"
-        }
-    },
     { "keys": ["f7"], "command": "expand_fqcn"},
     { "keys": ["f8"], "command": "find_use"},
     { "keys": ["f9"], "command": "import_namespace"},
